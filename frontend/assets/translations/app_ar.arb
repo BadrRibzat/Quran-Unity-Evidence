@@ -1,0 +1,17 @@
+{
+  "@@locale": "ar",
+  "appTitle": "أدلة وحدة القرآن",
+  "welcome": "مرحباً بك في أدلة وحدة القرآن",
+  "searchQuran": "بحث في القرآن",
+  "evidenceBrowser": "متصفح الأدلة",
+  "topics": "المواضيع",
+  "settings": "الإعدادات",
+  "language": "اللغة",
+  "about": "حول",
+  "visionDescription": "إثبات وحدة الرسالات الإلهية عبر التوراة والإنجيل والقرآن",
+  "searchHint": "أدخل الآية، الموضوع، أو الكلمة المفتاحية...",
+  "evidence": "الدليل",
+  "propheticContinuity": "استمرارية النبوة",
+  "moralUnity": "الوحدة الأخلاقية",
+  "theologicalConsistency": "الاتساق العقائدي"
+}

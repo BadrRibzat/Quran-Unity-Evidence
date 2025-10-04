@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "Quran Unity Evidence",
+  "welcome": "Welcome to Quran Unity Evidence",
+  "searchQuran": "Search Quran",
+  "evidenceBrowser": "Evidence Browser",
+  "topics": "Topics",
+  "settings": "Settings",
+  "language": "Language",
+  "about": "About",
+  "visionDescription": "Demonstrating the unity of divine messages across Torah, Bible, and Quran",
+  "searchHint": "Enter verse, topic, or keyword...",
+  "evidence": "Evidence",
+  "propheticContinuity": "Prophetic Continuity",
+  "moralUnity": "Moral Unity",
+  "theologicalConsistency": "Theological Consistency"
+}

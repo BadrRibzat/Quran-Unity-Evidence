@@ -1,0 +1,13 @@
+arb-dir: assets/translations
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+output-class: AppLocalizations
+supported-locales:
+  - en
+  - ar
+  - fr
+  - es
+  - de
+  - ja
+  - ru
+  - zh
