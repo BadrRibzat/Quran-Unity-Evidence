@@ -1,8 +1,6 @@
 name: religions_truth
-description: "Mobile app demonstrating and prove the truth of the religions of divine messages across scriptures"
-
+description: "Mobile app demonstrating the truth of divine messages"
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
@@ -18,6 +16,7 @@ dependencies:
   http: ^1.1.0
   provider: ^6.1.1
   shared_preferences: ^2.2.2
+  url_launcher: ^6.2.0  # للروابط الخارجية
 
 dev_dependencies:
   flutter_test:
